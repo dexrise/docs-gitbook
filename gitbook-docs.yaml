@@ -3,11 +3,11 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: "DEXRise Documentation"
 
-structure:
-  - type: space
-    key: "dexrise-docs"
-    title: "DEXRise Docs"
-    path: "docs"
-    default: true
-    content:
-      directory: "./docs"
+  structure:
+    - type: space
+      key: "dexrise-docs"
+      title: "DEXRise Docs"
+      path: "docs"
+      default: true
+      content:
+        directory: "./docs"
