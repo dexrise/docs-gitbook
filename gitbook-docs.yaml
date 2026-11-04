@@ -1,5 +1,13 @@
-root: ./docs/
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: "DEXRise Documentation"
 
 structure:
-  readme: README.md
-  summary: SUMMARY.md
+  - type: space
+    key: "dexrise-docs"
+    title: "DEXRise Docs"
+    path: "docs"
+    default: true
+    content:
+      directory: "./docs"
