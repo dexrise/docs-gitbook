@@ -11,7 +11,7 @@ The max supply is allocated across five purposes:
 | **Trading liquidity** | 50% | 500,000,000 DXR | Backs DXR trading pairs on the platform, starting with the [DXR/USDT launch](trading-launch.md) |
 | **Staking** | 30% | 300,000,000 DXR | Rewards for the [DXR staking program](staking-event.md), released across 10 years |
 | **Presale** | 10% | 100,000,000 DXR | Sold in the [DXR Presale Event](presale-event.md) at a fixed price |
-| **Airdrops** | 5% | 50,000,000 DXR | Funds [airdrop events](../airdrop/overview.md) for the community |
+| **Marketing** | 5% | 50,000,000 DXR | Funds [airdrop events](../airdrop/overview.md) for the community |
 | **Team** | 5% | 50,000,000 DXR | Allocated to the DEXRise team |
 
 ## Reading the allocation
