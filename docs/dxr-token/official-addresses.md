@@ -6,7 +6,7 @@ This page lists the official on-chain addresses associated with DXR and the DEXR
 
 | | |
 | --- | --- |
-| **DXR token contract** | *To be announced* |
+| **DXR contract on BSC** | *0x51aDd1EE13101759C2aaFA05aEF557ff3Bf0d9E1* |
 
 {% hint style="warning" %}
 The DXR token contract address will be announced through DEXRise's official channels and published on this page. **Always verify the contract address against this page and official announcements before interacting with any DXR contract** — fake contracts and impersonated addresses are a common scam vector.

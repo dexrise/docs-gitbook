@@ -10,7 +10,7 @@
 | **Network** | Binance Smart Chain (BSC) |
 | **Max supply** | 1,000,000,000 DXR — fixed and non-inflatable |
 | **Floor Price Protection** | 50% — the price can fall at most 50% below the last All-Time High |
-| **Token contract** | *To be announced — will be published here and on official channels* |
+| **Token contract on BSC** | *0x51aDd1EE13101759C2aaFA05aEF557ff3Bf0d9E1* |
 
 ## Floor Price Protection at 50%
 
