@@ -18,7 +18,7 @@ The DXR token contract address will be announced through DEXRise's official chan
 | --- | --- | --- |
 | 1 | **Trading liquidity pool** | `0xdb0ff7D78620c62730AfE9D0C755F26a9FFCA083` |
 | 2 | **Staking** | `0xb0D090d39293a6609E8c7438746A357Bf08FF7C4, 0x216a0B2e5B693a9664A1fEBd5776f927Ae89df4c` |
-| 3 | **Presale** | `0x67B3358226C6870a88C72578c9967bB78e5b3E2b` |
+| 3 | **Presale** | `0xF42879725fae6c82e55B866639F045fA07641Cb1` |
 | 4 | **Marketing** | `0x3D2bB93F57850ceC05b654547DAf764fe9BEec83, 0x0455EFF0b6df9726d065E46F2Cf27FF1a560FcB8` |
 | 5 | **Team wallet** | `0xF3b164648B6F4a6ae4a202270Da0772FD9b3Ad46` |
 
